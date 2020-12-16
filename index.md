@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Christian's (křesťan in Czech)
 
-You can use the [editor on GitHub](https://github.com/ferda-mravenec/krestan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome on my page. My first project is a Jquery UI themes. I have selected few interesting themes and configurated them. There is only slight modification regarding scope and icons (.png) lightness.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Přiložené témata JQury UI byly odladěny tak, aby ikony byly lépe vidět. Toto je moje první stránka tak uvidíme co z toho vznikne.
+
 
 ### Markdown
 
