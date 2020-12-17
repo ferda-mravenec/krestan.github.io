@@ -9,7 +9,7 @@ Seznam témat najdete zde:[Jquery UI Themes list (s českým popiskem)](https://
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```Rest of the page is just a mess of text
 Syntax highlighted code block
 
 # Header 1
