@@ -1,4 +1,4 @@
-## Christian's (křesťan in Czech)
+## Jquery UI (by křesťan)
 
 Welcome on my page. My first project is a Jquery UI themes. I have selected few interesting themes and configurated them. There is only slight modification regarding scope and icons (.png) lightness.
 
