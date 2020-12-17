@@ -4,7 +4,7 @@ Welcome on my page. My first project is a Jquery UI themes. I have selected few 
 
 Přiložené témata JQury UI byly odladěny tak, aby ikony byly lépe vidět. Toto je moje první stránka tak uvidíme co z toho vznikne.
 
-Seznam témat najdete zde:[link](https://ferda-mravenec.github.io/ui/jquery-ui-1.12.1/themes-1.12.1.html)
+Seznam témat najdete zde:[Jquery UI Themes list (s českým popiskem)](https://ferda-mravenec.github.io/ui/jquery-ui-1.12.1/themes-1.12.1.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
