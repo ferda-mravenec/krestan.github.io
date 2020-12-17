@@ -1,0 +1,42 @@
+﻿tmavá témata:
+
+- UI Darkness
+- Dark Hive
+- Vader (nižší kontrast: 
+         u tlačítek a tabů je na šedém pozadí černé písmo, 
+         černý výběr, bílé písmo, černé dialogy a bílé písmo)
+- Dot Luv
+- Trontastic
+- Swanky purse
+
+Tmavě zelený:
+- Le Frog
+
+Oranžový medium (tmavé taby a tlačítka)
+- Sunny (pěkný: oranžové tlačítka, taby, medium hover, vybrané jsou bílé ale s modrým rozmazaným rámečkem)
+
+Světlý:
+- Humanity (pěkné pastelové barvy dohněda, využity přechody)
+- Pepper_grinder (pastelové barvy, ale tmavý překlad při zapnutí dialogu)
+- Redmond (pěkné světlé tlačítka - rozhodně hezčí než Lightness)
+- Lightness (divná oranžová barva na radio a checkbox controlech)
+- Overcast (taby a dialog mají šedé pozadí min. medium)
+- Smoothness (světle šedé tlačítka)
+- Start (pěkný: tmavě modré tlačítka, zelené inputy vybrané, světle modré hovery)
+
+Velmi světle šedý:
+- Eggplant
+
+WHITE+COLORS:
+- Flick  (white background + some text purple and icons)
+- Trontastic (velmi zajimavá kombinace: 
+              černé tlačítka a taby, u tabů telený pruch s nerovnoměrným přechodem
+              velké zelené písmo u voleb, tlačítek a tabů, bílý text u výběru,
+              dialog černý se středně velkým bílým písmem Helvetica		
+               
+
+Podivné:
+- Swanky_purse (tmavé taby, dialog, velké světle žluté písmo Georgia, tmavý překlad)
+
+DISGUSTING:
+- Hot_sneaks (cyan)
